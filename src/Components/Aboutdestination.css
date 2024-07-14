@@ -1,0 +1,47 @@
+/* .Homesecoundimg {
+  width: 100%;
+  height: 70%;
+  object-fit: cover;
+}
+
+.Homesecoundheading {
+  color: #5a9f53;
+  font-weight: 800;
+} */
+
+.column1paragraph {
+  color: #fff;
+  text-align: start;
+  padding: 20px;
+}
+
+.column1heading {
+  color: #fff;
+  padding-top: 10px;
+
+}
+
+.column1 {
+  background-color: #5a9f53;
+}
+
+.column2paragraph {
+  color: #5a9f53;
+  text-align: start;
+  padding: 20px;
+
+}
+
+.column2heading {
+  color: #5a9f53;
+  padding-top: 10px;
+}
+
+.column2 {
+  background-color: #fff;
+  border: 1px solid grey;
+}
+
+.aboutcontainer1{
+  margin-top:15%;
+}

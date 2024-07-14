@@ -1,0 +1,27 @@
+.Homesecoundimg {
+  width: 50%;
+  height: auto;
+  object-fit: cover;
+}
+
+.Homesecoundheading {
+  color: #5a9f53;
+  font-weight: 800;
+  margin-top: 12px;
+}
+
+.Homesecoundparagraph {
+  color: #000;
+  text-align: start;
+}
+.homebtn {
+  background-color: #5a9f53; /* Green */
+  border: none;
+  color: #fff;
+  /* padding: 15px 32px; */
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  border-radius: 30px;
+}

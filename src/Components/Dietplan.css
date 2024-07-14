@@ -1,0 +1,33 @@
+.firstheading {
+  font-size: 3rem;
+  margin: 2rem;
+  color: #4a4a4a;
+}
+
+.first h1 {
+  font-size: 3rem;
+  margin: 2rem;
+  color: #4a4a4a;
+}
+.image {
+  position: relative;
+  width: 80%;
+  height: 500px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.howitworksbottom {
+  margin: 1rem;
+}
+.paragraph {
+  margin-top: 1.6rem;
+}
+
+.mainheading {
+  font-size: 3.5rem;
+  margin: 2rem;
+  color: #8ec038;
+}
+/* .spamcolor {
+  color: #8ec038;
+} */
