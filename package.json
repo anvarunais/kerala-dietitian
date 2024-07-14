@@ -1,5 +1,6 @@
 {
   "name": "ugdiet",
+  "homepage": "https://anvarunais.github.io/UG-Diet-Website",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -24,10 +25,10 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "preload": "npm run build",
-    "deploy":"gh-pages -d build"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
