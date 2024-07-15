@@ -24,7 +24,7 @@ function Home() {
           <h2>Welcome to</h2>
           <h1>UG DIET</h1>
           <p className="paragraph-text">
-            Achieve your health goals with UG Diet Company. Our expert advice,
+            Achieve your health goals with UG Diet Company.<br/> Our expert advice,
             personalized diet plans, and ongoing support ensure you get the
             results you desire.
           </p>

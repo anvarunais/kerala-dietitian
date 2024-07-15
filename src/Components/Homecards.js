@@ -12,7 +12,7 @@ function Homecards() {
         <h1 className="Homecardheading mt-5 mb-5">Why Choose UG Diet Company?</h1>
         <div className="row py-5">
           <div className="col-md-3 col-sm-12">
-            <Card style={{ marginBottom: "20px", height: "400px" }}>
+            <Card style={{ marginBottom: "20px", height: "500px" }}>
               <Card.Img variant="top" src={Imageone} />
               <Card.Body>
                 <Card.Title
@@ -28,7 +28,7 @@ function Homecards() {
           </div>
 
           <div className="col-md-3 col-sm-12">
-            <Card style={{ marginBottom: "20px", height: "400px" }}>
+            <Card style={{ marginBottom: "20px", height: "500px" }}>
               <Card.Img variant="top" src={Imagetwo} />
               <Card.Body>
                 <Card.Title style={{ color: "#5a9f53" }}>
@@ -43,7 +43,7 @@ function Homecards() {
           </div>
 
           <div className="col-md-3 col-sm-12">
-            <Card style={{ marginBottom: "20px", height: "400px" }}>
+            <Card style={{ marginBottom: "20px", height: "500px" }}>
               <Card.Img variant="top" src={Imagethree} />
               <Card.Body>
                 <Card.Title style={{ color: "#5a9f53" }}>
@@ -55,7 +55,7 @@ function Homecards() {
           </div>
 
           <div className="col-md-3 col-sm-12">
-            <Card style={{ marginBottom: "20px", height: "400px" }}>
+            <Card style={{ marginBottom: "20px", height: "500px" }}>
               <Card.Img variant="top" src={Imagefour} />
               <Card.Body>
                 <Card.Title style={{ color: "#5a9f53" }}>
