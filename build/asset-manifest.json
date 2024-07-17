@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/UG-Diet-Website/static/css/main.17d04581.css",
-    "main.js": "/UG-Diet-Website/static/js/main.01f698d8.js",
+    "main.js": "/UG-Diet-Website/static/js/main.6a5fa110.js",
     "static/media/home-min.jpg": "/UG-Diet-Website/static/media/home-min.ba7610defa2b84ce206f.jpg",
     "static/media/aboutsecoundimg.jpg": "/UG-Diet-Website/static/media/aboutsecoundimg.bfb59cdacd8257f2c7b4.jpg",
     "static/media/about-us.jpg": "/UG-Diet-Website/static/media/about-us.21ae541fa74e60ed0726.jpg",
@@ -21,10 +21,10 @@
     "static/media/img2.png": "/UG-Diet-Website/static/media/img2.a605bf043a3570e4a760.png",
     "index.html": "/UG-Diet-Website/index.html",
     "main.17d04581.css.map": "/UG-Diet-Website/static/css/main.17d04581.css.map",
-    "main.01f698d8.js.map": "/UG-Diet-Website/static/js/main.01f698d8.js.map"
+    "main.6a5fa110.js.map": "/UG-Diet-Website/static/js/main.6a5fa110.js.map"
   },
   "entrypoints": [
     "static/css/main.17d04581.css",
-    "static/js/main.01f698d8.js"
+    "static/js/main.6a5fa110.js"
   ]
 }
