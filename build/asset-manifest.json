@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/keraladietition/static/css/main.f535e998.css",
+    "main.js": "/keraladietition/static/js/main.0b38f609.js",
+    "static/media/client2.png": "/keraladietition/static/media/client2.e7faf8495b852402876b.png",
+    "static/media/client1.png": "/keraladietition/static/media/client1.9bd488899e8af185ff7b.png",
+    "static/media/client3.png": "/keraladietition/static/media/client3.6b82597f6eee394eca41.png",
+    "static/media/aboutsecoundimg.jpg": "/keraladietition/static/media/aboutsecoundimg.bfb59cdacd8257f2c7b4.jpg",
+    "static/media/image-1.jpg": "/keraladietition/static/media/image-1.5d24047fd8dcdc52cb6f.jpg",
+    "static/media/image-2.jpg": "/keraladietition/static/media/image-2.9ebf89ee773bfc1014c7.jpg",
+    "static/media/30daystrainer.png": "/keraladietition/static/media/30daystrainer.c12b49012f867382130c.png",
+    "static/media/excersice.png": "/keraladietition/static/media/excersice.51dd75f9eb0e9dd1712a.png",
+    "static/media/insta2.jpeg": "/keraladietition/static/media/insta2.605ad268b1b78c3ddffa.jpeg",
+    "static/media/insta1.jpeg": "/keraladietition/static/media/insta1.d09c2a49b588aa4aaf8c.jpeg",
+    "static/media/insta3.jpeg": "/keraladietition/static/media/insta3.1120e21dc8c098a35e90.jpeg",
+    "static/media/kerala-diet-logo.png": "/keraladietition/static/media/kerala-diet-logo.75d4d965f92045c92932.png",
+    "static/media/image-4.png": "/keraladietition/static/media/image-4.75c9a832cebebf2458a4.png",
+    "static/media/image-3.png": "/keraladietition/static/media/image-3.bf6fb257b6292024158b.png",
+    "static/media/guarantee.png": "/keraladietition/static/media/guarantee.7ceed7edfd2640b61d24.png",
+    "static/media/image-5.png": "/keraladietition/static/media/image-5.44207cf614c0db4f6197.png",
+    "static/media/image-6.png": "/keraladietition/static/media/image-6.c366223458dc1f512b5a.png",
+    "index.html": "/keraladietition/index.html",
+    "main.f535e998.css.map": "/keraladietition/static/css/main.f535e998.css.map",
+    "main.0b38f609.js.map": "/keraladietition/static/js/main.0b38f609.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f535e998.css",
+    "static/js/main.0b38f609.js"
+  ]
+}
