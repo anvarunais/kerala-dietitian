@@ -17,7 +17,7 @@
 .span {
   font-size: 3rem;
   margin: 2rem;
-  color: #8ec038;
+  color: #2a4146;
 }
 .destination h2 {
   font-size: 1rem;
@@ -28,7 +28,7 @@
 .destination h3 {
   font-size: 3rem;
   /* margin: 4rem 6rem; */
-  color: #8ec038;
+  color: #2a4146;
 }
 
 .first-des {
@@ -78,5 +78,5 @@
 }
 
 .span2 {
-  color: #8ec038;
+  color: #2a4146;
 }

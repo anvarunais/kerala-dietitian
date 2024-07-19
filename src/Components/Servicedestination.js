@@ -1,19 +1,19 @@
 import "./Servicedestination.css";
 import React from "react";
 import Card from "react-bootstrap/Card";
-import Imageone from "../assets/service-png-1.jpg";
-import Imagetwo from "../assets/service-png-2.jpg";
-import Imagethree from "../assets/service-png-3.jpg";
-import Imagefour from "../assets/service-png-4.jpg";
-import Imagefive from "../assets/service-png-5.jpg";
-import Imagesix from "../assets/service-png-6.png";
+import Imageone from "../assets/image-1.jpg";
+import Imagetwo from "../assets/image-2.jpg";
+import Imagethree from "../assets/image-3.png";
+import Imagefour from "../assets/image-4.png";
+import Imagefive from "../assets/image-5.png";
+import Imagesix from "../assets/image-6.png";
 
 const Servicedestination = () => {
   return (
     <>
       <div>
         <div className="container servicecontainer1 mb-5">
-          <h1 className="servicesheading mb-5">Features of Our Diet Plans</h1>
+          <h1 className="servicesheading mb-5">Features of kerala dietition</h1>
           <div className="row">
             <div className="col-md-4 col-sm-12">
               <Card
@@ -21,6 +21,7 @@ const Servicedestination = () => {
                   marginBottom: "20px",
                   height: "300px",
                   alignItems: "center",
+                  borderRadius: "20%",
                 }}
               >
                 <Card.Img
@@ -43,6 +44,7 @@ const Servicedestination = () => {
                   marginBottom: "20px",
                   height: "300px",
                   alignItems: "center",
+                  borderRadius: "20%",
                 }}
               >
                 <Card.Img className="serviceimg" variant="top" src={Imagetwo} />
@@ -61,6 +63,7 @@ const Servicedestination = () => {
                   marginBottom: "20px",
                   height: "300px",
                   alignItems: "center",
+                  borderRadius: "20%",
                 }}
               >
                 <Card.Img
@@ -85,6 +88,7 @@ const Servicedestination = () => {
                   marginBottom: "20px",
                   height: "300px",
                   alignItems: "center",
+                  borderRadius: "20%",
                 }}
               >
                 <Card.Img
@@ -107,6 +111,7 @@ const Servicedestination = () => {
                   marginBottom: "20px",
                   height: "300px",
                   alignItems: "center",
+                  borderRadius: "20%",
                 }}
               >
                 <Card.Img
@@ -129,6 +134,7 @@ const Servicedestination = () => {
                   marginBottom: "10px",
                   height: "300px",
                   alignItems: "center",
+                  borderRadius: "20%",
                 }}
               >
                 <Card.Img className="serviceimg" variant="top" src={Imagesix} />

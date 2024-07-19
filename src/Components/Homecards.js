@@ -1,40 +1,53 @@
 import React from "react";
 import Card from "react-bootstrap/Card";
-import Imageone from "../assets/img4.png";
-import Imagetwo from "../assets/img1.png";
-import Imagethree from "../assets/support.avif";
-import Imagefour from "../assets/img2.png";
+import Imageone from "../assets/30daystrainer.png";
+import Imagetwo from "../assets/excersice.png";
+import Imagethree from "../assets/guarantee.png";
 
 function Homecards() {
   return (
     <div>
       <div className="container">
-        <h1 className="Homecardheading mt-5 mb-5">Why Choose UG Diet Company?</h1>
+        <h1 className="Homecardheading mt-5 mb-5">
+          Why Choose kerala dietition ?
+        </h1>
         <div className="row py-5">
+          <div className="col-md-1 col-sm-12"></div>
           <div className="col-md-3 col-sm-12">
-            <Card style={{ marginBottom: "20px", height: "500px" }}>
-              <Card.Img variant="top" src={Imageone} />
+            <Card
+              style={{
+                marginBottom: "20px",
+                height: "400px",
+                borderRadius: "70px",
+              }}
+            >
+              <Card.Img className="imagecaards" variant="top" src={Imageone} />
               <Card.Body>
                 <Card.Title
-                  style={{ color: "#5a9f53", textDecoration: "uppercase" }}
+                  style={{ color: "#2c7a6c", textDecoration: "uppercase" }}
                 >
-                  Certified Nutritionists
+                  30 Days Trainer program
                 </Card.Title>
-                <Card.Text>
-                  Personalized diet plans from our team of professionals
+                <Card.Text className="cardbody">
+                  Join our 30 Days Trainer program to achieve your fitness
+                  goals.
                 </Card.Text>
               </Card.Body>
             </Card>
           </div>
 
           <div className="col-md-3 col-sm-12">
-            <Card style={{ marginBottom: "20px", height: "500px" }}>
-              <Card.Img variant="top" src={Imagetwo} />
+            <Card
+              style={{
+                marginBottom: "20px",
+                height: "400px",
+                borderRadius: "70px",
+              }}
+            >
+              <Card.Img className="imagecaards" variant="top" src={Imagetwo} />
               <Card.Body>
-                <Card.Title style={{ color: "#5a9f53" }}>
-                  Tailored Plans
-                </Card.Title>
-                <Card.Text>
+                <Card.Title style={{ color: "#2c7a6c" }}>Excersice</Card.Title>
+                <Card.Text className="cardbody">
                   Customized for weight loss, muscle gain, or health
                   improvement.
                 </Card.Text>
@@ -43,31 +56,26 @@ function Homecards() {
           </div>
 
           <div className="col-md-3 col-sm-12">
-            <Card style={{ marginBottom: "20px", height: "500px" }}>
-              <Card.Img variant="top" src={Imagethree} />
+            <Card
+              style={{
+                marginBottom: "20px",
+                height: "400px",
+                borderRadius: "70px",
+              }}
+            >
+              <Card.Img className="imagecaards" variant="top" src={Imagethree} />
               <Card.Body>
-                <Card.Title style={{ color: "#5a9f53" }}>
-                  Continuous Support
+                <Card.Title style={{ color: "#2c7a6c" }}>
+                  100% Guarantee
                 </Card.Title>
-                <Card.Text>Ongoing motivation and guidance</Card.Text>
-              </Card.Body>
-            </Card>
-          </div>
-
-          <div className="col-md-3 col-sm-12">
-            <Card style={{ marginBottom: "20px", height: "500px" }}>
-              <Card.Img variant="top" src={Imagefour} />
-              <Card.Body>
-                <Card.Title style={{ color: "#5a9f53" }}>
-                  Satisfaction Guaranteed
-                </Card.Title>
-                <Card.Text>
-                  No results in 1 month? Get a full refund. 100% cash back if
-                  there are no changes.
+                <Card.Text className="cardbody">
+                  Customized for weight loss, muscle gain, or health
+                  improvement.
                 </Card.Text>
               </Card.Body>
             </Card>
           </div>
+          <div className="col-md-1 col-sm-12"></div>
         </div>
       </div>
     </div>

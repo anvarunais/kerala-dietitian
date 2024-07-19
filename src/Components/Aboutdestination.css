@@ -1,39 +1,28 @@
-/* .Homesecoundimg {
-  width: 100%;
-  height: 70%;
-  object-fit: cover;
-}
-
-.Homesecoundheading {
-  color: #5a9f53;
-  font-weight: 800;
-} */
-
 .column1paragraph {
-  color: #fff;
+  color: #2a4146;
   text-align: start;
   padding: 20px;
 }
 
 .column1heading {
-  color: #fff;
+  color: #2a4146;
   padding-top: 10px;
 
 }
 
 .column1 {
-  background-color: #5a9f53;
+  border: 1px solid grey;
 }
 
 .column2paragraph {
-  color: #5a9f53;
+  color: #2a4146;
   text-align: start;
   padding: 20px;
-
+  
 }
 
 .column2heading {
-  color: #5a9f53;
+  color: #2a4146;
   padding-top: 10px;
 }
 
@@ -42,6 +31,3 @@
   border: 1px solid grey;
 }
 
-.aboutcontainer1{
-  margin-top:15%;
-}

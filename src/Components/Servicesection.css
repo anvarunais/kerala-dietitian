@@ -1,11 +1,13 @@
-.spanstyle2 {
-    color: #5a9f53;
+.spanstyle2{
     font-size: 40px;
   }
-  .paragrph {
+  .paragrph{
     text-align: left;
     padding-top: 50px;
   }
-  .ulstyle {
+  .ulstyle{
     margin: 6px;
+  }
+  .liststile{
+    text-align: start;
   }

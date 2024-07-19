@@ -3,7 +3,7 @@ import "./Navbar.css";
 import { Menu } from "./Menu";
 import { Link } from "react-router-dom";
 // import ReactWhatsapp from "react-whatsapp";
-import nav_logo from "../assets/ugdiet-logo.png";
+import nav_logo from "../assets/kerala-diet-logo.png";
 
 class Navbar extends Component {
   state = { clicked: false };
@@ -14,7 +14,6 @@ class Navbar extends Component {
     return (
       <nav className="NavbarItems">
         <img src={nav_logo} alt="/" className="logo" />
-        {/* <h1 className="Navbar-logo">FITNESS</h1> */}
 
         <div className="menu-icons" onClick={this.handleClick}>
           <i
@@ -34,11 +33,8 @@ class Navbar extends Component {
             );
           })}
 
-          {/* <a href="https://wa.me/917025040484?text= Hello I am interested to join with you!" target="_blank">
-              <img className="followicon" src={WtspIcon} />
-              </a> */}
           <a
-            href="https://wa.me/917025040484?text= Hello I Saw UG DIET Website, i'm  interested to join with you!"
+            href="https://wa.me/917025040484?text= Hi! I was browsing the website blog and wanted to know more about kerala dietition"
             target="_blank"
           >
             <button className="navbarbtn">Join Us</button>

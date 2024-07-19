@@ -4,8 +4,14 @@
   object-fit: cover;
 }
 
+.sectionmain{
+  animation-name: fadeInUp;
+  animation-duration: 5s;
+  animation-fill-mode: both;
+}
+
 .Homesecoundheading {
-  color: #5a9f53;
+  color: #2c7a6c;
   font-weight: 800;
   margin-top: 12px;
 }
@@ -15,10 +21,9 @@
   text-align: start;
 }
 .homebtn {
-  background-color: #5a9f53; /* Green */
+  background-color: #2a4146; 
   border: none;
   color: #fff;
-  /* padding: 15px 32px; */
   text-align: center;
   text-decoration: none;
   display: inline-block;

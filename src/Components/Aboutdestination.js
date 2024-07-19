@@ -7,7 +7,7 @@ const Aboutdestination = () => {
           <div className="col-md-6 col-sm-12 column1">
             <h4 className="column1heading">Our Story</h4>
             <p className="column1paragraph">
-              UG Diet Company is committed to helping you achieve your health
+              kerala Dietitian is committed to helping you achieve your health
               goals with personalized diet plans and expert nutrition advice.
               Our certified nutritionists are dedicated to guiding you towards a
               healthier lifestyle.
